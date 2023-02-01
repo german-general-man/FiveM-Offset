@@ -38,7 +38,7 @@ namespace offset
     uintptr_t natives_build = 0x17bb0 // LoadNativesBuild
     uintptr_t LoadFile = 0x19690 // LoadFile
     uintptr_t DoFile = 0x30cc0 // DoFile
-    uintptr_t Dofilecont = 30ca0 // Dofilecont
+    uintptr_t Dofilecont = 0x30ca0 // Dofilecont
     uintptr_t runtime = 0x19690 //LuaScriptRuntime
 
     //citizen_resources_metadata_lua.dll
